@@ -2,7 +2,7 @@
 //  BMICalculator.swift
 //  BMI
 //
-//  Created by Johan Grundling on 2023/10/19.
+//  Created by Carol Mwaba Chiyassa on 2023/10/19.
 //
 
 import Foundation
